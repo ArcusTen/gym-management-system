@@ -1,0 +1,205 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.navbar{
+    background-color : #ffffff;
+    background-size: conver;
+    height: 70px; 
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.logo{
+    padding-left: 30px;
+}
+h5{
+   padding-left: 40px;
+}
+.nav-link{
+padding: 0px 40px;
+}
+.nav-tag{
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Times New Roman, Times, serif;
+}
+.nav-tag:hover{
+text-decoration: underline;
+text-decoration-color: #000000;
+}
+.body-image{
+    background-image: url("../images/overlay-pro100-marcus-filly-4500x2000.jpg");
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 100px;
+    position: relative;
+}
+.body-image-text-div{
+text-align: center;
+padding-top: 200px;
+font-size: 2rem;
+color: white;
+}
+
+.middle-div{
+text-align: center;
+color: #333333;
+font-family: Arial, Helvetica, sans-serif;
+}
+#one{
+    padding-top: 40px;
+    padding-bottom: 10px;
+     justify-content: space-evenly;
+}
+.grid-container{
+margin: 20px 0px;
+display: flex;
+text-align: center;
+justify-content: center;
+}
+.grid-item{
+  height: 250px;
+  width: 300px;
+  box-shadow: 10px 5px 5px whitesmoke; */
+}
+.grid-item:hover{
+   border-style: solid;
+   border-color: black;
+   border-width: 0.05px;
+}
+.body-link{
+    text-align: center;
+    margin: 50px 0px;
+
+}
+.load{
+    padding: 10px 40px;
+    background-color: #4a4a4a;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.load:hover{
+    background-color: rgb(145, 135, 135);
+}
+.text-div{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #333333;
+}
+.text-one{
+    margin: 5px 0px;
+}
+.middle-image{
+    text-align: center;
+    margin-bottom: 90px;
+
+}
+.facility-div{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.facility{
+    text-decoration: none;
+    background-color: #4a4a4a;
+    color: #ffffff;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.facility:hover{
+     background-color: rgb(145, 135, 135);
+}
+.text-div-one{
+    margin: 20px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #333333;
+}
+#text-one{
+margin:10px 0px;
+}
+.image-div{
+margin: 100px 0px;
+position: relative;
+justify-content: center;
+display: flex;
+text-align: center;
+gap: 20px;
+}
+.image-two{
+    height: 250px;
+    width: 250px;
+}
+.image-one{
+    position:relative;
+}
+.ONE-A{
+    height: 400px;
+    width: 400px;
+position: absolute;
+top: 50%;
+}
+
+.container-two{
+    text-align:center;
+    margin-bottom: 100px;
+}
+.more{
+    text-decoration: none;
+    background-color:#4a4a4a;
+    color: #ffffff;
+    padding: 10px 15px;
+}
+.more:hover{
+background-color: rgb(145, 135, 135);
+}
+.container-three{
+    text-align: center;
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 0px;
+}
+.three{
+    margin: 10px 0px;
+}
+.container-fourth{
+text-align: center;
+margin: 50px 0px;
+}
+.fourth{
+    padding-left:80PX;
+}
+.container-five{
+    text-align: center;
+    margin: 100px 0px;
+}
+.five{
+    background-color: #4a4a4a;
+    color: #ffffff;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.five:hover{
+    background-color: rgb(145, 135, 135) ;
+}
+.last-container{
+    background-color: #4a4a4a;
+    height: 70px;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px 0;
+}
+.last-container a{
+    margin: 0 5px;
+    color: white;
+}
+.last{
+    padding-top: 30px;
+}
+
+

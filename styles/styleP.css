@@ -1,0 +1,174 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    background-size: cover; /* Fixed typo here */
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-left: 30px;
+}
+
+.nav-link {
+    padding: 0px 40px;
+}
+
+.nav-tag {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-tag:hover {
+    text-decoration: underline;
+    text-decoration-color: #000000;
+}
+
+.first-div {
+    background-image: url("../images/girl-stretching.jpg");
+    background-size: cover;
+    height: 280px;
+    margin-bottom: 50px;
+}
+
+.first-text {
+    padding-top: 30px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#text-one {
+    font-size: 20px;
+}
+
+.second-div {
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+}
+
+.three-div {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.three {
+    padding-left: 80px; /* Fixed typo here (PX -> px) */
+}
+
+.fourth-div {
+    color: #000000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.five-div {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.five {
+    width: 50em;
+    height: 30em;
+}
+
+.six-div {
+    background-image: url("../images/brand-elevation-treadmill-running-detail-dx15623-mr 2.jpg");
+    background-size: cover;
+    height: 400px;
+    margin: 70px 0px;
+    /* text-align: center; */
+    position: relative;
+}
+
+.six {
+    position: absolute;
+    width: 350px;
+    padding: 60px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4a4a4a;
+    top: 30%;
+    left: 50%;
+    background-color: #FFFFFF;
+}
+
+.seven-div {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5%;
+}
+
+.seven {
+    color: #000000;
+    background-color: #ffffff;
+    padding: 10px 25px;
+    text-decoration: none;
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    /* transform: translate(-50%, 20%); */
+}
+
+.seven:hover {
+    color: #b0a7a7;
+}
+
+#se {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+
+.eight-div {
+    background-image: url("../images/image-corefeature3-vf.png");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    color: #fffffa;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-bottom-style: solid;
+    border-color: red;
+    font-size: 30px;
+    padding-top: 30px;
+    position: relative;
+}
+
+.eight {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 8px 25px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.eight:hover {
+    color: #b0a7a7;
+}
+
+.last-div {
+    background-color: #222222;
+    height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.last {
+    padding-top: 20px;
+}
